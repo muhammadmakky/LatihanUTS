@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo e(asset('bootstrap5.2/css/bootstrap.min.css')); ?>"><?php /**PATH C:\Users\hp_5c\Downloads\WebProgramming\resources\views/layout/bootstrap.blade.php ENDPATH**/ ?>
